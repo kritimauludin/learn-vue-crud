@@ -5,6 +5,9 @@
 ## How to run this project? Check Below
 
 ``` bash
+#insert your fiebase setup
+setting your api key in folder src/firebase/init.js
+
 # install dependencies
 npm install
 
