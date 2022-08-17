@@ -5,7 +5,7 @@
 ## How to run this project? Check Below
 
 ``` bash
-#insert your fiebase setup
+#insert your firebase setup
 setting your api key in folder src/firebase/init.js
 
 # install dependencies
