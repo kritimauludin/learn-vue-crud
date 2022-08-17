@@ -2,7 +2,7 @@
 
 > Learn Vue js CRUD with vue cli and vue router
 
-## Build Setup
+## How to run this project? Check Below
 
 ``` bash
 # install dependencies
