@@ -1,6 +1,6 @@
 # vue-crud
 
-> A Vue.js project
+> Learn Vue js CRUD with vue cli and vue router
 
 ## Build Setup
 
