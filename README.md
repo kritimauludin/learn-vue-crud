@@ -1,4 +1,4 @@
-# Project Simple Vue CRUD
+# Simple Vue CRUD
 
 > This project using Vue js with vue cli and vue router
 
