@@ -1,4 +1,4 @@
-# vue-crud
+# Learn Vue CRUD
 
 > Learn Vue js CRUD with vue cli and vue router
 
