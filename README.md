@@ -1,6 +1,6 @@
-# Learn Vue CRUD
+# Project Simple Vue CRUD
 
-> Learn Vue js CRUD with vue cli and vue router
+> This project using Vue js with vue cli and vue router
 
 ## How to run this project? Check Below
 
